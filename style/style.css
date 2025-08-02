@@ -216,11 +216,12 @@ height:auto;
     }
     #skill{
         height: auto;
+       
 
 
     }
     #skill img{
-        display:block;
+        display: block;
         margin:auto;
         margin-bottom: 20px;
     }
@@ -233,5 +234,20 @@ height:auto;
     }
     footer a{
         display: block;
+    }
+    #image img{
+        height: auto;
+        width: 80%;
+        margin:10%;
+        align-items: center;
+    }
+    #image{
+        margin:auto;
+        height: auto;
+
+    }
+    #content{
+        height:auto;
+        margin-bottom: 15px;
     }
 }
